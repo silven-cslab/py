@@ -12,4 +12,3 @@ for num in range(max(lower, 2), upper + 1):
             break
     if is_prime:
         print(num, end=" ")
-print()
